@@ -185,15 +185,8 @@ define('DB_NAME', 'jobhunt_db');
 - Interview scheduling
 - Analytics and reporting
 
-## 🤝 Support
 
-For issues or questions:
-1. Check the troubleshooting section
-2. Review PHP and MySQL error logs
-3. Verify all file permissions
-4. Test with sample data first
 
-## 📝 License
 
 This project is open source and available under the MIT License.
 
